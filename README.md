@@ -19,8 +19,7 @@ https://apps.apple.com/ru/app/streisand/id6450534064
 
 ### Android
 V2rayNG\
-Устанавливается из Google Play, очень сильно похож на Nekobox по функционалу, лучше использовать его.\
-https://play.google.com/store/apps/details?id=com.v2ray.ang
+https://en.v2rayng.org/
 
 NekoBox:\
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
