@@ -5,7 +5,9 @@ https://github.com/2dust/v2rayN/releases
 
 ### MacOS
 V2Box\
+https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 FoxRay
+https://foxray.org/
 
 ### Linux
 Nekoray\
