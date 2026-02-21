@@ -1,4 +1,4 @@
-## Клиенты для разный разных операционных систем.
+## Клиенты TalArcVPN для разный разных операционных систем.
 ### Windows
 V2RayN:\
 https://github.com/2dust/v2rayN/releases
