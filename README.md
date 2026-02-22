@@ -1,7 +1,7 @@
 ## Клиенты TalArcVPN для разный разных операционных систем.
 ### Windows
 V2RayN:\
-https://github.com/2dust/v2rayN/releases
+https://github.com/2dust/v2rayN/releases/download/7.17.3/v2rayN-windows-64.zip
 
 ### MacOS
 V2Box\
