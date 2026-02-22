@@ -1,25 +1,27 @@
 ## Клиенты TalArcVPN для разный разных операционных систем.
 ### Windows
-V2RayN:\
-https://github.com/2dust/v2rayN/releases/download/7.17.3/v2rayN-windows-64.zip
+Happ
+https://www.happ.su/main/ru
 
 ### MacOS
-V2Box\
-https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
+Happ
+https://www.happ.su/main/ru
 FoxRay
 https://foxray.org/
 
 ### Linux
-Nekoray\
-https://github.com/MatsuriDayo/nekoray/releases
+Happ
+https://www.happ.su/main/ru
 
 ### IOS
+Happ
+https://www.happ.su/main/ru
 Streisand:\
 https://apps.apple.com/ru/app/streisand/id6450534064
 
 ### Android
-V2rayNG\
-https://en.v2rayng.org/
+Happ
+https://www.happ.su/main/ru
 
 NekoBox:\
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
